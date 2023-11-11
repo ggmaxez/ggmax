@@ -1,1 +1,659 @@
-(function(_0x1e08f7,_0x132b51){const _0x17ab95=_0x1330,_0x2e479e=_0x1e08f7();while(!![]){try{const _0x28684b=-parseInt(_0x17ab95(0x1b3))/0x1*(parseInt(_0x17ab95(0x210))/0x2)+-parseInt(_0x17ab95(0x1af))/0x3*(-parseInt(_0x17ab95(0x209))/0x4)+parseInt(_0x17ab95(0x201))/0x5+-parseInt(_0x17ab95(0x1aa))/0x6*(-parseInt(_0x17ab95(0x1f4))/0x7)+-parseInt(_0x17ab95(0x1fe))/0x8+-parseInt(_0x17ab95(0x1ef))/0x9*(parseInt(_0x17ab95(0x1c2))/0xa)+parseInt(_0x17ab95(0x1f0))/0xb;if(_0x28684b===_0x132b51)break;else _0x2e479e['push'](_0x2e479e['shift']());}catch(_0xcb75b1){_0x2e479e['push'](_0x2e479e['shift']());}}}(_0x4ba7,0x65d84));let ipsAutenticados=[];function ipEstaAutenticado(_0x20ebea){return ipsAutenticados['includes'](_0x20ebea);}function adicionarIPAutenticado(_0x3fcd62){const _0x461322=_0x1330;ipsAutenticados[_0x461322(0x1f8)](_0x3fcd62);}function _0x1330(_0x26be5e,_0x13bef2){const _0x4ba70d=_0x4ba7();return _0x1330=function(_0x133005,_0x263c43){_0x133005=_0x133005-0x1a9;let _0x27442a=_0x4ba70d[_0x133005];return _0x27442a;},_0x1330(_0x26be5e,_0x13bef2);}async function carregarIPsDoGitHub(){const _0x555587=_0x1330,_0x31bd63=_0x555587(0x213);try{const _0x50ab0e=await fetch(_0x31bd63),_0x5de40f=await _0x50ab0e[_0x555587(0x20b)]();return _0x5de40f['split']('\x0a')[_0x555587(0x205)](_0x41da2f=>_0x41da2f[_0x555587(0x1da)]());}catch(_0x532edc){return console[_0x555587(0x203)](_0x555587(0x1ea),_0x532edc),[];}}function _0x4ba7(){const _0x24bc3f=['bottom','Está\x20correta,\x20veja\x20o\x20vídeo\x20e\x20tente\x20com\x20calma,\x20cuidado\x20com\x20os\x20espaços.','\x0a\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20bottom:\x2010px;\x0a\x20\x20\x20\x20left:\x2010px;\x0a\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20background:\x20#007bff;\x0a\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20border-radius:\x204px;\x0a\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20z-index:\x209999;\x0a','GGUTILS','15069ZHVnkh','\x0a\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20top:\x20970px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20left:\x20225px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#333;\x0a\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20left;\x0a\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x208px\x208px\x20rgba(0,\x200,\x200,\x200.9);\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20line-height:\x201.0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x20300px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x209998;\x0a\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20','\x20Agora\x20o\x20AutoAvaliação\x20filtra\x20somente\x20produtos\x20entregues\x20para\x20avaliar!','Elemento\x20não\x20encontrado','6UwNfCA','-100%','h5.text-success[data-v-2182cc71]','#__layout\x20>\x20div\x20>\x20div:nth-of-type(3)\x20>\x20div:nth-of-type(3)\x20>\x20div\x20>\x20div\x20>\x20div\x20>\x20div\x20>\x20div\x20>\x20div\x20>\x20div:nth-of-type(2)\x20>\x20div\x20>\x20div\x20>\x20div:nth-of-type(2)\x20>\x20a','Erro\x20ao\x20obter\x20o\x20endereço\x20IP:','div','a.btn.btn-primary[style=\x22margin-top:\x2020px;\x20margin-bottom:\x2030px;\x22]','includes','addStockButton','AutoAvaliação\x20desativada.','\x0a\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22addStockButton\x22\x20style=\x22background-color:\x20#007bff;\x20color:\x20white;\x20padding:\x2010px\x2020px;\x22>Adicionar\x20Estoque</button>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20<div\x20style=\x22margin-top:\x2010px;\x22>\x20<!--\x20Adiciona\x20um\x20espaço\x20de\x2010\x20pixels\x20entre\x20os\x20botões\x20-->\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22loadSalesButton\x22\x20style=\x22background-color:\x20#007bff;\x20color:\x20white;\x20padding:\x2010px\x2020px;\x22>Carregar\x20Vendas</button>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20<div\x20style=\x22margin-top:\x2010px;\x22>\x20<!--\x20Adiciona\x20um\x20espaço\x20de\x2010\x20pixels\x20entre\x20os\x20botões\x20-->\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22loadAutoAvaliacao\x22\x20style=\x22background-color:\x20#007bff;\x20color:\x20white;\x20padding:\x2010px\x2020px;\x22>Ativar\x20AutoAvaliação</button>\x0a\x20\x20\x20\x20</div>\x0a','span.option__label','span.button__label','COMPROU\x20AS\x20MELHORES\x20CONTAS\x20DE\x20BLOX\x20FRUITS\x20DA\x20GGMAX!','Novo\x20endereço\x20IP:\x20','30AQGcoI','querySelector','button','Ativar\x20AutoAvaliação','Desativar\x20AutoAvaliação','split','display','click','ATUALIZAÇÃO:','Avaliação','accept','Entregues','mouseover','loadAutoAvaliacao','application/json','Pendentes','Pedido','Todos','backgroundColor','Como\x20posso\x20ajudar\x20você\x20amigo?','\x0a\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20bottom:\x2010px;\x0a\x20\x20\x20\x20left:\x20225px;\x0a\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20background:\x20#007bff;\x0a\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20box-shadow:\x200\x207px\x207px\x20rgba(0,\x200,\x200,\x200.3);\x0a\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20border-radius:\x204px;\x0a\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20z-index:\x209999;\x0a','none','V1.2.1','adicionarNumero','trim','length','block','Carregar\x20vendas','\x0a\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20bottom:\x20-100%;\x20/*\x20Inicialmente\x20esconde\x20a\x20tabela\x20fora\x20da\x20tela\x20*/\x0a\x20\x20\x20\x20left:\x200;\x0a\x20\x20\x20\x20background:\x20#343a40;\x20/*\x20Cor\x20de\x20fundo\x20*/\x0a\x20\x20\x20\x20color:\x20#333;\x0a\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20border-radius:\x2010px;\x20/*\x20Borda\x20arredondada\x20*/\x0a\x20\x20\x20\x20box-shadow:\x200\x202px\x206px\x20rgba(0,\x200,\x200,\x200.3);\x0a\x20\x20\x20\x20max-height:\x2050vh;\x0a\x20\x20\x20\x20overflow:\x20auto;\x0a\x20\x20\x20\x20transition:\x20bottom\x200.3s;\x20/*\x20Adiciona\x20uma\x20transição\x20suave\x20de\x20animação\x20*/\x0a\x20\x20\x20\x20z-index:\x209998;\x0a\x0a','addEventListener','Pausar\x20Carregamento','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#007bff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x208px\x208px\x20rgba(0,\x200,\x200,\x200.9);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20left;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20background-color\x200.5s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20','textarea[data-v-11b88eb0][placeholder=\x22Digite\x20sua\x20mensagem...\x22].form-control.type_msg.resize-vertical','createElement','IP\x20não\x20autenticado.\x20O\x20script\x20não\x20será\x20executado.','textarea[data-v-11b88eb0][placeholder=\x22Digite\x20sua\x20mensagem...\x22]','log','mouseout','https://discord.com/api/webhooks/1165317286199054510/VoFBkBq5JAmvueVos13RkfOB4lDqgCuRySy_URgEz--ABWffDY-1f0ptRtkrPGYZxFOt','IP\x20autenticado.\x20Executando\x20o\x20restante\x20do\x20script.','Erro\x20ao\x20carregar\x20IPs\x20do\x20GitHub:','Estoque\x20automático','p[data-v-2182cc71]\x20strong[data-v-2182cc71]','stringify','h5.header__title[data-v-2182cc71]','2390769bNASds','6072011pHAfFp','dispatchEvent','Botão\x20de\x20enviar\x20não\x20encontrado\x20ou\x20a\x20AutoAvaliação\x20foi\x20desativada','style','16331rAgFui','Olá!\x20Sua\x20conta\x20foi\x20entregue\x20lá\x20encima.','textContent','Elemento\x20final\x20não\x20encontrado\x20ou\x20a\x20AutoAvaliação\x20foi\x20desativada','push','parentNode','Falha\x20ao\x20enviar\x20o\x20endereço\x20IP\x20para\x20o\x20webhook\x20do\x20Discord.','Feche\x20a\x20intervenção\x20na\x20direita\x20do\x20chat\x20em\x20cancelar\x20solicitação','textarea[data-v-fb07956e][placeholder=\x22Digite\x20sua\x20opinião\x20aqui.\x22].input-field','input','638744zGcFoD','appendChild','Minhas\x20vendas','3501005PfNNcM','#007bff','error','div.step__footer[data-v-2182cc71]','map','RESPOSTAS','nextSibling','files','100MNbeoR','#025bba','text','getElementById','Olá!\x20Estamos\x20verificando\x20sua\x20solicitação.','readAsText','target','50504StRIMS','body','oninput','https://raw.githubusercontent.com/ggmaxez/ggmax/main/keys','GGUtils','file','removeChild','innerHTML','value','10%','Área\x20de\x20texto\x20não\x20encontrada\x20ou\x20a\x20AutoAvaliação\x20foi\x20desativada','querySelectorAll','span.input-group-text.send-button','https://ggmax.com.br/termos-de-uso','.txt','cssText','type','forEach','174eimaNk'];_0x4ba7=function(){return _0x24bc3f;};return _0x4ba7();}async function obterEnderecoIP(){const _0x1120a4=_0x1330;try{const _0x34805c=await fetch('https://api.ipify.org?format=json'),_0x1242cb=await _0x34805c['json']();return _0x1242cb['ip'];}catch(_0x462fb5){return console['error'](_0x1120a4(0x1b7),_0x462fb5),null;}}async function enviarIPParaWebhook(_0x2c5638){const _0x3b35cf=_0x1330,_0x1e8431=_0x3b35cf(0x1e8);try{const _0x40d70b=await fetch(_0x1e8431,{'method':'POST','headers':{'Content-Type':_0x3b35cf(0x1d0)},'body':JSON[_0x3b35cf(0x1ed)]({'content':_0x3b35cf(0x1c1)+_0x2c5638})});_0x40d70b['ok']?console[_0x3b35cf(0x1e6)]('Endereço\x20IP\x20enviado\x20com\x20sucesso\x20para\x20o\x20webhook\x20do\x20Discord.'):console[_0x3b35cf(0x203)](_0x3b35cf(0x1fa));}catch(_0x5a11c8){console[_0x3b35cf(0x203)]('Erro\x20ao\x20enviar\x20o\x20endereço\x20IP\x20para\x20o\x20webhook\x20do\x20Discord:',_0x5a11c8);}}async function main(){const _0xcbb2f1=_0x1330;ipsAutenticados=await carregarIPsDoGitHub();const _0x22e521=await obterEnderecoIP();if(_0x22e521&&ipEstaAutenticado(_0x22e521)){console[_0xcbb2f1(0x1e6)](_0xcbb2f1(0x1e9)),await enviarIPParaWebhook(_0x22e521);const _0xe27df=[_0xcbb2f1(0x1ac),_0xcbb2f1(0x1f5),_0xcbb2f1(0x20d),_0xcbb2f1(0x1fb),_0xcbb2f1(0x1d5),_0xcbb2f1(0x21d)];function _0x305967(_0x285f18){const _0x43e7ad=_0xcbb2f1,_0x1c8206=document[_0x43e7ad(0x1c3)](_0x43e7ad(0x1e5));if(_0x1c8206){_0x1c8206[_0x43e7ad(0x218)]=_0x285f18;const _0x2cb85a=new Event(_0x43e7ad(0x1fd),{'bubbles':!![],'cancelable':!![]});_0x1c8206[_0x43e7ad(0x1f1)](_0x2cb85a),setTimeout(()=>{const _0x3df64e=_0x43e7ad,_0x1ff2f1=document['querySelector'](_0x3df64e(0x21c));_0x1ff2f1&&_0x1ff2f1[_0x3df64e(0x1c9)]();},0x3e8);}}const _0x596b91=document[_0xcbb2f1(0x1e3)](_0xcbb2f1(0x1c4));_0x596b91['textContent']=_0xcbb2f1(0x206),_0x596b91[_0xcbb2f1(0x1f3)][_0xcbb2f1(0x21f)]=_0xcbb2f1(0x1d6);function _0x458c20(){const _0x5027c0=_0xcbb2f1,_0x3652ce=document['createElement'](_0x5027c0(0x1b8));return _0x3652ce[_0x5027c0(0x1f3)][_0x5027c0(0x21f)]=_0x5027c0(0x1b0),_0xe27df[_0x5027c0(0x1a9)](_0x17b8d3=>{const _0x37d31b=_0x5027c0,_0x46ac53=document['createElement'](_0x37d31b(0x1c4));_0x46ac53[_0x37d31b(0x1f6)]=_0x17b8d3,_0x46ac53['style']['cssText']=_0x37d31b(0x1e1),_0x46ac53[_0x37d31b(0x1df)](_0x37d31b(0x1ce),()=>{const _0x406679=_0x37d31b;_0x46ac53[_0x406679(0x1f3)][_0x406679(0x1d4)]=_0x406679(0x20a);}),_0x46ac53[_0x37d31b(0x1df)](_0x37d31b(0x1e7),()=>{const _0x2fe04c=_0x37d31b;_0x46ac53[_0x2fe04c(0x1f3)][_0x2fe04c(0x1d4)]=_0x2fe04c(0x202);}),_0x46ac53[_0x37d31b(0x1df)](_0x37d31b(0x1c9),()=>{const _0x1dbee7=_0x37d31b;_0x305967(_0x17b8d3),_0x3652ce[_0x1dbee7(0x1f3)][_0x1dbee7(0x1c8)]=_0x1dbee7(0x1d7);}),_0x3652ce[_0x37d31b(0x1ff)](_0x46ac53);}),window[_0x5027c0(0x1df)](_0x5027c0(0x1c9),_0x1fb3ce=>{const _0x3b8e5a=_0x5027c0;!_0x3652ce['contains'](_0x1fb3ce[_0x3b8e5a(0x20f)])&&_0x1fb3ce['target']!==_0x596b91&&(_0x3652ce[_0x3b8e5a(0x1f3)][_0x3b8e5a(0x1c8)]=_0x3b8e5a(0x1d7));}),document[_0x5027c0(0x211)]['appendChild'](_0x3652ce),_0x3652ce;}let _0x166e84=![];_0x596b91['addEventListener']('click',()=>{const _0x9c4754=_0xcbb2f1;_0x166e84?_0x4969ff['style']['display']=_0x9c4754(0x1d7):_0x4969ff[_0x9c4754(0x1f3)]['display']=_0x9c4754(0x1dc),_0x166e84=!_0x166e84;}),document[_0xcbb2f1(0x211)][_0xcbb2f1(0x1ff)](_0x596b91);const _0x4969ff=_0x458c20();(function(){'use strict';const _0x500d65=_0xcbb2f1;var _0x527541='\x20',_0x8f8c78=_0x500d65(0x1c0),_0x1fde2a=0x3e8,_0x3064ee=0x3e8,_0x5a9678=0x3e8,_0x1ca1ce=0xea60;const _0x2c21eb=document[_0x500d65(0x1e3)]('div');_0x2c21eb[_0x500d65(0x1f3)][_0x500d65(0x21f)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20top:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20left:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translate(-50%,\x20-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#333;\x0a\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2022px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x202px\x206px\x20rgba(0,\x200,\x200,\x200.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20line-height:\x201.4;\x0a\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x2080%;\x0a\x20\x20\x20\x20';const _0x3486f5=document['createElement']('h1');_0x3486f5['innerHTML']=_0x500d65(0x1eb),_0x3486f5[_0x500d65(0x1f3)][_0x500d65(0x21f)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x200px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2030px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20color:\x20black;\x0a\x20\x20\x20\x20';let _0x5bb7c8=![];const _0x599fc1=document[_0x500d65(0x1e3)](_0x500d65(0x1b8));_0x599fc1['innerHTML']=_0x500d65(0x1bd),_0x599fc1[_0x500d65(0x1f3)][_0x500d65(0x21f)]=_0x500d65(0x1de);const _0x182202=document[_0x500d65(0x1c3)](_0x500d65(0x204));_0x182202&&_0x182202['parentNode'][_0x500d65(0x216)](_0x182202);const _0x3ca62e=document[_0x500d65(0x1c3)](_0x500d65(0x1ee));_0x3ca62e&&(_0x3ca62e[_0x500d65(0x1f6)]=_0x500d65(0x214));const _0x324134=document[_0x500d65(0x1c3)](_0x500d65(0x1ec));_0x324134&&(_0x324134['textContent']=_0x500d65(0x1ca),_0x324134[_0x500d65(0x207)]['textContent']=_0x500d65(0x1b1));const _0x221b10=document[_0x500d65(0x1c3)](_0x500d65(0x1b5));_0x221b10&&(_0x221b10[_0x500d65(0x1f6)]=_0x500d65(0x1d8));document[_0x500d65(0x211)][_0x500d65(0x1ff)](_0x599fc1);let _0x38363d=![],_0x54c98a,_0x2885d3=![];function _0x3acab9(){const _0x612dbb=_0x500d65;var _0x46bbf3=document[_0x612dbb(0x21b)](_0x612dbb(0x1bf));for(var _0x217217=0x0;_0x217217<_0x46bbf3[_0x612dbb(0x1db)];_0x217217++){if(_0x46bbf3[_0x217217][_0x612dbb(0x1f6)]===_0x612dbb(0x1d2)&&_0x46bbf3[_0x217217][_0x612dbb(0x1f3)][_0x612dbb(0x1c8)]===_0x612dbb(0x1d7)&&_0x2885d3){_0x46bbf3[_0x217217][_0x612dbb(0x1f9)]['click']();break;}}setTimeout(function(){const _0x57caf1=_0x612dbb;var _0x3d730c=document[_0x57caf1(0x21b)]('span.option__label');for(var _0x2a3757=0x0;_0x2a3757<_0x3d730c[_0x57caf1(0x1db)];_0x2a3757++){if(_0x3d730c[_0x2a3757][_0x57caf1(0x1f6)]===_0x57caf1(0x1cd)&&_0x2885d3){_0x3d730c[_0x2a3757][_0x57caf1(0x1c9)]();break;}}var _0x3bc1ca=document[_0x57caf1(0x21b)](_0x57caf1(0x1bf));for(var _0x2a8b98=0x0;_0x2a8b98<_0x3bc1ca[_0x57caf1(0x1db)];_0x2a8b98++){if(_0x3bc1ca[_0x2a8b98][_0x57caf1(0x1f6)]===_0x57caf1(0x1cb)&&_0x3bc1ca[_0x2a8b98][_0x57caf1(0x1f3)][_0x57caf1(0x1c8)]===_0x57caf1(0x1d7)&&_0x2885d3){_0x3bc1ca[_0x2a8b98]['parentNode'][_0x57caf1(0x1c9)]();break;}}setTimeout(function(){const _0x19ffd6=_0x57caf1;var _0x9ba9e3=document[_0x19ffd6(0x21b)](_0x19ffd6(0x1be));for(var _0x506d48=0x0;_0x506d48<_0x9ba9e3['length'];_0x506d48++){if(_0x9ba9e3[_0x506d48][_0x19ffd6(0x1f6)]===_0x19ffd6(0x1d1)&&_0x2885d3){_0x9ba9e3[_0x506d48]['click']();break;}}setTimeout(function(){const _0x17d280=_0x19ffd6;var _0x4b2cf7=document[_0x17d280(0x1c3)](_0x17d280(0x1b6));if(_0x2885d3){if(_0x4b2cf7)_0x4b2cf7[_0x17d280(0x1c9)]();else{console[_0x17d280(0x1e6)](_0x17d280(0x1b2));for(var _0x2f0772=0x0;_0x2f0772<_0x9ba9e3[_0x17d280(0x1db)];_0x2f0772++){if(_0x9ba9e3[_0x2f0772][_0x17d280(0x1f6)]===_0x17d280(0x1d3)){_0x9ba9e3[_0x2f0772][_0x17d280(0x1c9)]();break;}}setTimeout(_0x3acab9,_0x1ca1ce);return;}}else{console['log'](_0x17d280(0x1bc));return;}setTimeout(function(){const _0x29858e=_0x17d280;var _0x3f0f91=document[_0x29858e(0x1c3)](_0x29858e(0x1e2));if(_0x3f0f91&&_0x2885d3){_0x3f0f91[_0x29858e(0x1c9)](),_0x3f0f91[_0x29858e(0x218)]=_0x527541;var _0x575041=new Event('input',{'bubbles':!![],'cancelable':!![]});_0x3f0f91[_0x29858e(0x1f1)](_0x575041);}else console[_0x29858e(0x1e6)](_0x29858e(0x21a));setTimeout(function(){const _0x43069c=_0x29858e;var _0x301260=document['querySelector'](_0x43069c(0x21c));_0x301260&&_0x2885d3?_0x301260[_0x43069c(0x1c9)]():console[_0x43069c(0x1e6)](_0x43069c(0x1f2)),setTimeout(function(){const _0x21acd2=_0x43069c;var _0x189915=document[_0x21acd2(0x1c3)]('#__layout\x20>\x20div\x20>\x20div:nth-of-type(3)\x20>\x20div:nth-of-type(5)\x20>\x20div:nth-of-type(2)\x20>\x20div\x20>\x20div\x20>\x20div:nth-of-type(2)\x20>\x20div\x20>\x20div\x20>\x20div\x20>\x20div\x20>\x20div:nth-of-type(2)\x20>\x20div\x20>\x20a\x20>\x20i');_0x189915&&_0x2885d3?_0x189915[_0x21acd2(0x1c9)]():console[_0x21acd2(0x1e6)](_0x21acd2(0x1f7)),setTimeout(function(){const _0x59d3ae=_0x21acd2;var _0x5b53ec=document[_0x59d3ae(0x1c3)](_0x59d3ae(0x1fc));if(_0x5b53ec&&_0x2885d3){_0x5b53ec[_0x59d3ae(0x1c9)](),_0x5b53ec['value']=_0x8f8c78;var _0xd9c719=new Event(_0x59d3ae(0x1fd),{'bubbles':!![],'cancelable':!![]});_0x5b53ec['dispatchEvent'](_0xd9c719);}else console[_0x59d3ae(0x1e6)](_0x59d3ae(0x21a));setTimeout(function(){const _0x5809d5=_0x59d3ae;var _0x241e90=document[_0x5809d5(0x1c3)](_0x5809d5(0x1b9));_0x241e90&&_0x2885d3?_0x241e90['click']():console[_0x5809d5(0x1e6)](_0x5809d5(0x1f2)),setTimeout(function(){const _0x3df199=_0x5809d5;var _0x3233ef=document[_0x3df199(0x21b)]('span[data-v-fb07956e]');for(var _0x1cc50d=0x0;_0x1cc50d<_0x3233ef[_0x3df199(0x1db)];_0x1cc50d++){if(_0x3233ef[_0x1cc50d]['textContent']===_0x3df199(0x200)){_0x3233ef[_0x1cc50d]['click'](),setTimeout(_0x3acab9,0xbb8);break;}}},0x3e8);},0x3e8);},0x3e8);},0x3e8);},0x3e8);},0x3e8);},_0x5a9678);},_0x3064ee);},_0x1fde2a);}function _0xf9e907(){const _0x40ac8a=_0x500d65,_0x5b794b=document[_0x40ac8a(0x1c3)]('.link-view-all\x20a.set-color');if(_0x2885d3){_0x2885d3=![],_0x5f24a2[_0x40ac8a(0x217)]=_0x40ac8a(0x1c5);return;}else _0x2885d3=!![],_0x5f24a2[_0x40ac8a(0x217)]=_0x40ac8a(0x1c6),setTimeout(_0x3acab9,0x3e8);}function _0x512b76(){const _0x562e34=_0x500d65,_0x564d0b=document[_0x562e34(0x1c3)]('.link-view-all\x20a.set-color');_0x38363d?(clearInterval(_0x54c98a),_0x38363d=![],_0x223d0b['innerHTML']=_0x562e34(0x1dd)):(_0x54c98a=setInterval(()=>{const _0x162804=_0x562e34;_0x564d0b[_0x162804(0x1c9)]();},0x3e8),_0x38363d=!![],_0x223d0b[_0x562e34(0x217)]=_0x562e34(0x1e0));}const _0x2b58e2=document[_0x500d65(0x1e3)](_0x500d65(0x1c4));_0x2b58e2[_0x500d65(0x217)]=_0x500d65(0x1ae),_0x2b58e2[_0x500d65(0x1f3)][_0x500d65(0x21f)]=_0x500d65(0x1ad),_0x2b58e2[_0x500d65(0x1df)](_0x500d65(0x1c9),()=>{const _0x10da90=_0x500d65;if(_0x5bb7c8)_0x599fc1[_0x10da90(0x1f3)]['bottom']=_0x10da90(0x1b4),_0x5bb7c8=![];else{const _0x28251f=_0x10da90(0x219);_0x599fc1[_0x10da90(0x1f3)][_0x10da90(0x1ab)]=_0x28251f,_0x5bb7c8=!![];}}),document[_0x500d65(0x211)][_0x500d65(0x1ff)](_0x2b58e2),_0x2c21eb[_0x500d65(0x1ff)](document[_0x500d65(0x1e3)]('br'));const _0x2d5882=document[_0x500d65(0x1e3)](_0x500d65(0x1fd));_0x2d5882[_0x500d65(0x220)]=_0x500d65(0x215),_0x2d5882[_0x500d65(0x1cc)]=_0x500d65(0x21e),_0x2d5882[_0x500d65(0x1f3)][_0x500d65(0x1c8)]=_0x500d65(0x1d7),_0x2d5882[_0x500d65(0x212)]=()=>{const _0x2a2c17=_0x500d65,_0x4f7a28=_0x2d5882[_0x2a2c17(0x208)][0x0];if(!_0x4f7a28)return;const _0xb56632=new FileReader();_0xb56632[_0x2a2c17(0x20e)](_0x4f7a28),_0xb56632['onload']=()=>{const _0x24d3b3=_0x2a2c17,_0xc0325c=_0xb56632['result'][_0x24d3b3(0x1c7)]('\x0a');_0xc0325c[_0x24d3b3(0x1a9)]((_0x418ba1,_0x174799)=>{setTimeout(()=>{adicionarNumero(_0x418ba1['trim']());},(_0x174799+0x1)*0x2);});};};const _0x2ceca2=document[_0x500d65(0x20c)](_0x500d65(0x1bb));_0x2ceca2[_0x500d65(0x1df)](_0x500d65(0x1c9),()=>{const _0x4b0991=_0x500d65;_0x2d5882[_0x4b0991(0x1c9)]();});const _0x223d0b=document[_0x500d65(0x20c)]('loadSalesButton');_0x223d0b[_0x500d65(0x1df)]('click',_0x512b76);const _0x5f24a2=document[_0x500d65(0x20c)](_0x500d65(0x1cf));_0x5f24a2[_0x500d65(0x1df)](_0x500d65(0x1c9),_0xf9e907),_0x2c21eb[_0x500d65(0x1f3)][_0x500d65(0x1c8)]=_0x500d65(0x1d7),document['body'][_0x500d65(0x1ff)](_0x2c21eb),window[_0x500d65(0x1d9)]=function(_0x29f4ea){const _0x501a8d=_0x500d65,_0xab0afa=document['querySelectorAll']('textarea.form-control'),_0x26549c=_0xab0afa[_0xab0afa[_0x501a8d(0x1db)]-0x1];if(_0x29f4ea[_0x501a8d(0x1ba)]('*')){const _0x31168d=_0x29f4ea[_0x501a8d(0x1c7)]('*');_0x31168d[_0x501a8d(0x1a9)]((_0x131c02,_0x3496da)=>{const _0x5cd68c=_0x501a8d;_0x26549c[_0x5cd68c(0x218)]+=_0x131c02[_0x5cd68c(0x1da)](),_0x3496da<_0x31168d[_0x5cd68c(0x1db)]-0x1&&(_0x26549c[_0x5cd68c(0x218)]+='\x0a');});}else _0x26549c['value']=_0x29f4ea;_0x26549c['dispatchEvent'](new Event(_0x501a8d(0x1fd),{'bubbles':!![]})),document['querySelector']('a.add-button')[_0x501a8d(0x1c9)]();};}());}else console[_0xcbb2f1(0x203)](_0xcbb2f1(0x1e4));}main();
+
+
+// Array para armazenar os IPs autenticados
+
+let ipsAutenticados = [];
+
+// Função para verificar se um IP está autenticado
+function ipEstaAutenticado(ip) {
+    return ipsAutenticados.includes(ip);
+}
+
+// Função para adicionar um IP à lista de IPs autenticados
+function adicionarIPAutenticado(ip) {
+    ipsAutenticados.push(ip);
+}
+
+// Função para carregar IPs de um arquivo RAW no GitHub
+async function carregarIPsDoGitHub() {
+    const urlIPs = 'https://raw.githubusercontent.com/ggmaxez/ggmax/main/keys';
+
+    try {
+        const resposta = await fetch(urlIPs);
+        const textoIPs = await resposta.text();
+        return textoIPs.split('\n').map(ip => ip.trim());
+    } catch (erro) {
+        console.error('Erro ao carregar IPs do GitHub:', erro);
+        return [];
+    }
+}
+
+
+
+// Função para obter o endereço IP do usuário
+async function obterEnderecoIP() {
+    try {
+        const resposta = await fetch('https://api.ipify.org?format=json');
+        const dados = await resposta.json();
+        return dados.ip;
+    } catch (erro) {
+        console.error('Erro ao obter o endereço IP:', erro);
+        return null;
+    }
+}
+
+// Função para enviar o endereço IP para o webhook do Discord
+async function enviarIPParaWebhook(enderecoIP) {
+    const webhookURL = 'https://discord.com/api/webhooks/1165317286199054510/VoFBkBq5JAmvueVos13RkfOB4lDqgCuRySy_URgEz--ABWffDY-1f0ptRtkrPGYZxFOt'; // Substitua pelo URL do seu webhook
+
+    try {
+        const resposta = await fetch(webhookURL, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                content: `Novo endereço IP: ${enderecoIP}`,
+            }),
+        });
+
+        if (resposta.ok) {
+            console.log('Endereço IP enviado com sucesso para o webhook do Discord.');
+        } else {
+            console.error('Falha ao enviar o endereço IP para o webhook do Discord.');
+        }
+    } catch (erro) {
+        console.error('Erro ao enviar o endereço IP para o webhook do Discord:', erro);
+    }
+}
+
+// Função principal
+async function main() {
+    // Carrega os IPs do GitHub
+    ipsAutenticados = await carregarIPsDoGitHub();
+
+    // Obtém o endereço IP do usuário
+    const enderecoIP = await obterEnderecoIP();
+
+    // Verifica se o IP está autenticado
+    if (enderecoIP && ipEstaAutenticado(enderecoIP)) {
+        // Se o IP está autenticado, execute o restante do script
+        console.log('IP autenticado. Executando o restante do script.');
+
+        // Envie o endereço IP para o webhook do Discord
+        await enviarIPParaWebhook(enderecoIP);
+
+       const respostasRapidas = 
+    "Olá! foi entregue lá encima.",
+    "Olá! Estamos verificando sua solicitação.",
+    "Feche na intervenção na direita do chat em cancelar solicitação",
+    "Como posso ajudar você amigo?",
+    "https://ggmax.com.br/termos-de-uso",
+];
+
+// Função para adicionar respostas rápidas ao chat
+function adicionarRespostaRapida(resposta) {
+    // Encontre o campo de entrada do chat (ajuste o seletor conforme necessário)
+    const chatInput = document.querySelector('textarea[data-v-11b88eb0][placeholder="Digite sua mensagem..."]');
+
+    if (chatInput) {
+        // Insira a resposta rápida no campo de entrada
+        chatInput.value = resposta;
+
+        // Dispare um evento 'input' para simular a entrada de texto
+        const inputEvent = new Event('input', {
+            bubbles: true,
+            cancelable: true,
+        });
+        chatInput.dispatchEvent(inputEvent);
+
+        // Espere um curto período de tempo antes de enviar a mensagem (ajuste conforme necessário)
+        setTimeout(() => {
+            // Encontre o botão de envio (ajuste o seletor conforme necessário)
+            const sendButton = document.querySelector('span.input-group-text.send-button');
+
+            if (sendButton) {
+                // Clique no botão de envio
+                sendButton.click();
+            }
+        }, 1000); // Espere 1 segundo antes de enviar a mensagem (ajuste conforme necessário)
+    }
+}
+
+// Cria o botão "Respostas Rápidas" com posição fixa
+const respostaRapidaButton = document.createElement('button');
+respostaRapidaButton.textContent = 'RESPOSTAS';
+respostaRapidaButton.style.cssText = `
+    position: fixed;
+    bottom: 10px;
+    left: 225px;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    background: #007bff;
+    color: white;
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.3);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    z-index: 9999;
+`;
+
+// Função para criar o quadro de respostas rápidas
+function criarQuadroRespostasRapidas() {
+    // Cria o container do quadro de respostas
+    const quadroRespostas = document.createElement('div');
+    quadroRespostas.style.cssText = `
+        position: fixed;
+        top: 970px;
+        left: 225px;
+        background-color: #333;
+        color: white;
+        text-align: left;
+        padding: 15px;
+        border-radius: 10px;
+        box-shadow: 0 8px 8px rgba(0, 0, 0, 0.9);
+        font-family: sans-serif;
+        font-size: 14px;
+        line-height: 1.0;
+        max-width: 300px;
+        z-index: 9998;
+        display: none;
+    `;
+
+    // Cria botões para cada resposta rápida
+    respostasRapidas.forEach((resposta) => {
+        const respostaButton = document.createElement('button');
+        respostaButton.textContent = resposta;
+        respostaButton.style.cssText = `
+            display: block;
+            width: 100%;
+            background: #007bff;
+            border: none;
+            padding: 12px;
+            cursor: pointer;
+            color: #fff;
+            box-shadow: 0 8px 8px rgba(0, 0, 0, 0.9);
+            text-align: left;
+            font-size: 16px;
+            transition: background-color 0.5s;
+        `;
+
+        respostaButton.addEventListener('mouseover', () => {
+            respostaButton.style.backgroundColor = '#025bba';
+        });
+
+        respostaButton.addEventListener('mouseout', () => {
+            respostaButton.style.backgroundColor = '#007bff';
+        });
+
+        respostaButton.addEventListener('click', () => {
+            // Ao clicar em uma resposta rápida, adiciona a resposta ao chat e envia
+            adicionarRespostaRapida(resposta);
+            quadroRespostas.style.display = 'none';
+        });
+
+        quadroRespostas.appendChild(respostaButton);
+    });
+
+    // Fecha o quadro de respostas ao clicar em outro local da página
+    window.addEventListener('click', (event) => {
+        if (!quadroRespostas.contains(event.target) && event.target !== respostaRapidaButton) {
+            quadroRespostas.style.display = 'none';
+        }
+    });
+
+    // Adiciona o quadro de respostas ao corpo da página
+    document.body.appendChild(quadroRespostas);
+    return quadroRespostas;
+}
+
+// Função para alternar a exibição do quadro de respostas rápidas
+let quadroRespostasVisivel = false;
+respostaRapidaButton.addEventListener('click', () => {
+    if (quadroRespostasVisivel) {
+        quadroRespostas.style.display = 'none';
+    } else {
+        quadroRespostas.style.display = 'block';
+    }
+    quadroRespostasVisivel = !quadroRespostasVisivel;
+});
+
+// Adicione o botão "Respostas Rápidas" à página
+document.body.appendChild(respostaRapidaButton);
+
+// Cria o quadro de respostas rápidas
+const quadroRespostas = criarQuadroRespostasRapidas();
+
+(function () {
+    'use strict';
+    // DEFINA AQUI A MENSAGEM QUE SERÁ ENVIADA NO BATE-PAPO
+    var mensagemchat = " ";
+    // DEFINA AQUI A MENSAGEM QUE SERÁ COLOCADA NA AVALIAÇÃO
+    var mensagemavaliacao = " ";
+    // CASO VOCÊ PERCEBA QUE A PAGINA ESTÁ DEMORANDO PARA ABRIR A LISTA DE PRODUTOS ENTREGUE, AUMENTE ESSE VALOR
+    var delayentregues = 1000
+    // CASO VOCÊ PERCEBA QUE A PAGINA ESTÁ DEMORANDO PARA ABRIR A LISTA DE AVALIAÇÕES DE PENDENTES, AUMENTE ESSE VALOR
+    var delaypendentes = 1000
+    // CASO VOCÊ PERCEBA QUE A PAGINA DA VENDA ESTÁ DEMORANDO PARA CARREGAR, AUMENTE ESSE VALOR
+    var delaychat = 1000
+    // TEMPO PARA VERIFICAR SE HOUVE UMA NOVA VENDA
+    var verificadordevenda = 60000
+
+    const popup = document.createElement('div');
+    popup.style.cssText = `
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: #fff;
+        color: #333;
+        text-align: center;
+        padding: 22px;
+        border-radius: 10px;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+        font-family: sans-serif;
+        font-size: 16px;
+        line-height: 1.4;
+        max-width: 80%;
+    `;
+
+    const popupText = document.createElement('h1');
+    popupText.innerHTML = 'Estoque automático';
+    popupText.style.cssText = `
+        margin-bottom: 0px;
+        font-size: 30px;
+        color: black;
+    `;
+
+    let isTableOpen = false; // Variável para rastrear o estado da tabela
+
+    // Cria a tabela de funções novas
+    const functionTable = document.createElement('div');
+    functionTable.innerHTML = `
+    <div>
+        <button id="addStockButton" style="background-color: #007bff; color: white; padding: 10px 20px;">Adicionar Estoque</button>
+    </div>
+    <div style="margin-top: 10px;"> <!-- Adiciona um espaço de 10 pixels entre os botões -->
+        <button id="loadSalesButton" style="background-color: #007bff; color: white; padding: 10px 20px;">Carregar Vendas</button>
+    </div>
+    <div style="margin-top: 10px;"> <!-- Adiciona um espaço de 10 pixels entre os botões -->
+        <button id="loadAutoAvaliacao" style="background-color: #007bff; color: white; padding: 10px 20px;">Ativar AutoAvaliação</button>
+    </div>
+`;
+
+    // Estiliza a tabela
+    functionTable.style.cssText = `
+    position: fixed;
+    bottom: -100%; /* Inicialmente esconde a tabela fora da tela */
+    left: 0;
+    background: #343a40; /* Cor de fundo */
+    color: #333;
+    padding: 10px;
+    border-radius: 10px; /* Borda arredondada */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    max-height: 50vh;
+    overflow: auto;
+    transition: bottom 0.3s; /* Adiciona uma transição suave de animação */
+    z-index: 9998;
+
+`;
+
+    // Localiza a div com a classe step__footer
+    const divToDelete = document.querySelector('div.step__footer[data-v-2182cc71]');
+
+    if (divToDelete) {
+        // Remove a div
+        divToDelete.parentNode.removeChild(divToDelete);
+    }
+
+    // Altera o texto no elemento h5 com a classe header__title
+    const headerTitle = document.querySelector('h5.header__title[data-v-2182cc71]');
+    if (headerTitle) {
+        headerTitle.textContent = 'ARCHWEZ';
+    }
+
+    // Altera o conteúdo do elemento p com os dados desejados
+    const paragraph = document.querySelector('p[data-v-2182cc71] strong[data-v-2182cc71]');
+    if (paragraph) {
+        paragraph.textContent = 'ATENÇÃO:';
+        paragraph.nextSibling.textContent = ' PARA ATUALIZAÇÕES SEMPRE ESTEJA EM https://discord.gg/pWneCaNnst';
+    }
+
+    // Localize o elemento com base na classe
+    const element = document.querySelector('h5.text-success[data-v-2182cc71]');
+
+    if (element) {
+        // Atualize o conteúdo do elemento
+        element.textContent = 'V1.0';
+    }
+
+
+    // Adicione o ID "addStockButton" ao botão no HTML da tabela
+    // <button id="addStockButton">Adicionar Estoque</button>
+    // <button id="loadSalesButton">Carregar vendas</button>
+    // <button id="automaticavaliation">Avaliação automatica</button>
+
+    // Adiciona a tabela à página
+    document.body.appendChild(functionTable);
+
+    // Função para alternar o clique automático
+    let isAutoClicking = false; // Variável para rastrear o estado do clique automático
+    let autoClickInterval;
+
+
+
+    let isAutoAvaliacao = false; // Variável para rastrear o estado do clique automático
+
+    // Função para clicar na div "Avaliação"
+    function clickAvaliacao() {
+
+
+        var buttons = document.querySelectorAll('span.button__label');
+
+        for (var i = 0; i < buttons.length; i++) {
+            if (buttons[i].textContent === 'Pedido' && buttons[i].style.display === 'none' && isAutoAvaliacao) {
+                buttons[i].parentNode.click();
+                break; // Para após o primeiro clique encontrado.
+            }
+        }
+
+        // Após 1 segundo, clique no elemento com a classe "option__label" e o texto "Entregues"
+        setTimeout(function () {
+            var optionLabels = document.querySelectorAll('span.option__label');
+
+            for (var j = 0; j < optionLabels.length; j++) {
+                if (optionLabels[j].textContent === 'Entregues' && isAutoAvaliacao) {
+                    optionLabels[j].click();
+                    break;
+                }
+            }
+
+            var buttons = document.querySelectorAll('span.button__label');
+
+            for (var k = 0; k < buttons.length; k++) {
+                if (buttons[k].textContent === 'Avaliação' && buttons[k].style.display === 'none' && isAutoAvaliacao) {
+                    buttons[k].parentNode.click();
+                    break; // Para após o primeiro clique encontrado.
+                }
+            }
+
+            // Após 1 segundo, clique no elemento com a classe "option__label" e o texto "Pendentes"
+            setTimeout(function () {
+                var optionLabels = document.querySelectorAll('span.option__label');
+
+                for (var f = 0; f < optionLabels.length; f++) {
+                    if (optionLabels[f].textContent === 'Pendentes' && isAutoAvaliacao) {
+                        optionLabels[f].click();
+                        break;
+                    }
+                }
+
+                // VER PEDIDO
+                // Após mais 1 segundo, clique no elemento com o seletor especificado
+                setTimeout(function () {
+                    // Localize o elemento usando o seletor CSS
+                    var elementToClick = document.querySelector('#__layout > div > div:nth-of-type(3) > div:nth-of-type(3) > div > div > div > div > div > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > a');
+
+                    // Verifique se o elemento foi encontrado
+                    if (isAutoAvaliacao) {
+                        if (elementToClick) {
+                            // Clique no elemento
+                            elementToClick.click();
+                        } else {
+                            console.log('Elemento não encontrado');
+
+                            for (var i = 0; i < optionLabels.length; i++) {
+                                if (optionLabels[i].textContent === 'Todos') {
+                                    optionLabels[i].click();
+                                    break;
+                                }
+                            }
+                            setTimeout(clickAvaliacao, verificadordevenda); // Volta ao inicio do script
+                            return;
+                        }
+                    } else {
+                        console.log('AutoAvaliação desativada.')
+                        return;
+                    }
+
+                    // Após mais 1 segundo, clique na área de texto
+                    setTimeout(function () {
+                        var textArea = document.querySelector('textarea[data-v-11b88eb0][placeholder="Digite sua mensagem..."].form-control.type_msg.resize-vertical');
+
+                        if (textArea && isAutoAvaliacao) {
+                            // Clique na área de texto
+                            textArea.click();
+
+                            // Insira o texto especificado
+                            textArea.value = mensagemchat;
+
+                            // Dispare um evento de 'input' para simular a entrada de texto
+                            var inputEvent = new Event('input', {
+                                bubbles: true,
+                                cancelable: true,
+                            });
+                            textArea.dispatchEvent(inputEvent);
+                        } else {
+                            console.log('Área de texto não encontrada ou a AutoAvaliação foi desativada');
+                        }
+
+                        // Após mais 1 segundo, clique no botão de enviar
+                        setTimeout(function () {
+                            var sendButton = document.querySelector('span.input-group-text.send-button');
+
+                            if (sendButton && isAutoAvaliacao) {
+                                // Clique no botão de enviar
+                                sendButton.click();
+                            } else {
+                                console.log('Botão de enviar não encontrado ou a AutoAvaliação foi desativada');
+                            }
+                            // Após mais 1 segundo, clique no elemento com o seletor especificado
+                            setTimeout(function () {
+                                var finalElementToClick = document.querySelector('#__layout > div > div:nth-of-type(3) > div:nth-of-type(5) > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(2) > div > a > i');
+
+                                // Verifique se o elemento foi encontrado
+                                if (finalElementToClick && isAutoAvaliacao) {
+                                    // Clique no elemento
+                                    finalElementToClick.click();
+                                } else {
+                                    console.log('Elemento final não encontrado ou a AutoAvaliação foi desativada');
+                                }
+
+                                // Após mais 1 segundo, clique na área de texto
+                                setTimeout(function () {
+                                    var textArea2 = document.querySelector('textarea[data-v-fb07956e][placeholder="Digite sua opinião aqui."].input-field');
+
+                                    if (textArea2 && isAutoAvaliacao) {
+                                        // Clique na área de texto
+                                        textArea2.click();
+
+                                        // Insira o texto especificado
+                                        textArea2.value = mensagemavaliacao;
+
+                                        // Dispare um evento de 'input' para simular a entrada de texto
+                                        var inputEvent2 = new Event('input', {
+                                            bubbles: true,
+                                            cancelable: true,
+                                        });
+                                        textArea2.dispatchEvent(inputEvent2);
+                                    } else {
+                                        console.log('Área de texto não encontrada ou a AutoAvaliação foi desativada');
+                                    }
+
+                                    // Após mais 1 segundo, clique no botão de enviar
+                                    setTimeout(function () {
+                                        var sendButton2 = document.querySelector('a.btn.btn-primary[style="margin-top: 20px; margin-bottom: 30px;"]');
+
+                                        if (sendButton2 && isAutoAvaliacao) {
+                                            // Clique no botão de enviar
+                                            sendButton2.click();
+                                        } else {
+                                            console.log('Botão de enviar não encontrado ou a AutoAvaliação foi desativada');
+                                        }
+                                        // Após clicar no botão "Publicar avaliação", clique no elemento com o texto "Minhas vendas"
+                                        setTimeout(function () {
+                                            var elements = document.querySelectorAll('span[data-v-fb07956e]');
+
+                                            for (var i = 0; i < elements.length; i++) {
+                                                if (elements[i].textContent === 'Minhas vendas') {
+                                                    elements[i].click();
+                                                    setTimeout(clickAvaliacao, 3000); // Reinicia o script
+                                                    break;
+                                                }
+                                            }
+                                        }, 1000); // Espera 1 segundo antes de clicar no elemento "Minhas vendas".
+                                    }, 1000); // Espera 1 segundo antes de clicar no botão de avaliar.
+                                }, 1000); // Espera 1 segundo antes de clicar na área de texto.
+                            }, 1000); // Espera 1 segundo antes de clicar no elemento final.
+                        }, 1000); // Espera 1 segundo antes de clicar no botão de enviar.
+                    }, 1000); // Espera 1 segundo antes de clicar na área de texto.
+                }, delaychat); // Espera 1 segundo antes de clicar no elemento especificado.
+            }, delaypendentes); // Espera 1 segundo antes de clicar em "Pendentes".
+        }, delayentregues);
+    }
+
+
+    function toggleAutoAvaliacao() {
+        const loadMoreLink = document.querySelector('.link-view-all a.set-color');
+
+        if (isAutoAvaliacao) {
+            isAutoAvaliacao = false;
+            loadAutoAvaliacao.innerHTML = 'Ativar AutoAvaliação';
+            return;
+        } else {
+            isAutoAvaliacao = true;
+            loadAutoAvaliacao.innerHTML = 'Desativar AutoAvaliação';
+            setTimeout(clickAvaliacao, 1000);
+        }
+    }
+
+
+
+
+    function toggleAutoClick() {
+        const loadMoreLink = document.querySelector('.link-view-all a.set-color');
+
+        if (isAutoClicking) {
+            // Pausa o clique automático
+            clearInterval(autoClickInterval);
+            isAutoClicking = false;
+            loadSalesButton.innerHTML = 'Carregar vendas';
+        } else {
+            // Inicia o clique automático
+            autoClickInterval = setInterval(() => {
+                loadMoreLink.click();
+            }, 1000); // Clique a cada 1 segundo (ajuste conforme necessário)
+            isAutoClicking = true;
+            loadSalesButton.innerHTML = 'Pausar Carregamento';
+        }
+    }
+
+    // Cria o botão GGUtils
+    const ggUtilsButton = document.createElement('button');
+    ggUtilsButton.innerHTML = 'ARCHWEZ';
+    ggUtilsButton.style.cssText = `
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    z-index: 9999;
+`;
+
+    // Adiciona um evento de clique ao botão GGUtils
+    ggUtilsButton.addEventListener('click', () => {
+        // Verifica o estado da tabela e decide se deve abri-la ou fechá-la
+        if (isTableOpen) {
+            // Fecha a tabela
+            functionTable.style.bottom = '-100%';
+            isTableOpen = false;
+        } else {
+            // Abre a tabela
+            const desiredPosition = '10%';
+            functionTable.style.bottom = desiredPosition;
+            isTableOpen = true;
+        }
+    });
+
+    // Adiciona o botão à página
+    document.body.appendChild(ggUtilsButton);
+
+    popup.appendChild(document.createElement('br'));
+    const input = document.createElement('input');
+    input.type = 'file';
+    input.accept = '.txt';
+    input.style.display = 'none';
+
+    input.oninput = () => {
+        const file = input.files[0];
+        if (!file) {
+            return;
+        }
+        const reader = new FileReader();
+        reader.readAsText(file);
+        reader.onload = () => {
+            const numeros = reader.result.split('\n');
+            numeros.forEach((numero, indice) => {
+                setTimeout(() => {
+                    adicionarNumero(numero.trim());
+                }, (indice + 1) * 2);
+            });
+        };
+    };
+
+    // Associar o evento ao botão "Adicionar Estoque"
+    const addStockButton = document.getElementById('addStockButton');
+    addStockButton.addEventListener('click', () => {
+        input.click(); // Abre o seletor de arquivo quando o botão é clicado
+    });
+
+    // Cria o botão "Carregar vendas"
+    const loadSalesButton = document.getElementById('loadSalesButton');
+    loadSalesButton.addEventListener('click', toggleAutoClick);
+
+
+    // Cria o botão "Auto Avaliação"
+    const loadAutoAvaliacao = document.getElementById('loadAutoAvaliacao');
+    loadAutoAvaliacao.addEventListener('click', toggleAutoAvaliacao);
+
+
+    popup.style.display = 'none';
+    document.body.appendChild(popup);
+
+    window.adicionarNumero = function (numero) {
+        const lastInputElement = document.querySelectorAll('textarea.form-control');
+        const lastTextArea = lastInputElement[lastInputElement.length - 1];
+
+        if (numero.includes('*')) {
+            const lines = numero.split('*');
+            lines.forEach((line, index) => {
+                lastTextArea.value += line.trim();
+                if (index < lines.length - 1) {
+                    lastTextArea.value += '\n'; // Pula a linha entre as partes
+                }
+            });
+        } else {
+            lastTextArea.value = numero;
+        }
+
+        lastTextArea.dispatchEvent(new Event('input', { bubbles: true }));
+        document.querySelector('a.add-button').click();
+    };
+})();
+
+    } else {
+        // Se o IP não está autenticado, exiba uma mensagem de erro
+        console.error('IP não autenticado. O script não será executado.');
+    }
+}
+
+// Executa a função principal
+main();
+
